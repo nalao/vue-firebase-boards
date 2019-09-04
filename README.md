@@ -30,7 +30,7 @@ yarn run test
 yarn run lint
 ```
 
-### COMMIT
+### ADD PROJECT TO NEW REPO GETHUB.IO
 
 ```
 git init                                                           // start tracking current directory
