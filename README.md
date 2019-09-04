@@ -30,12 +30,6 @@ yarn run test
 yarn run lint
 ```
 
-### COMMIT
-
-```
-COMMIT BY LAR SONETHALY
-```
-
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
